@@ -1,5 +1,5 @@
 # WHATNEXT
-WHATNEXT is a system that use LLM and IR techniques to recommends playlists to users.
+WhatNext is an advanced music recommendation system that utilizes LLM and IR techniques.
 
 
 ## Dataset download
